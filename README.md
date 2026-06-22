@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0057-insert-interval) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1642-furthest-building-you-can-reach](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1642-furthest-building-you-can-reach) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -52,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
