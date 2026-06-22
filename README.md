@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [1642-furthest-building-you-can-reach](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1642-furthest-building-you-can-reach) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Greedy
 |  |
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1642-furthest-building-you-can-reach) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Heap (Priority Queue)
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Prefix Sum
 |  |
