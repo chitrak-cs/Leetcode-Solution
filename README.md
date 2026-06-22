@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Math
+|  |
+| ------- |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 <!---LeetCode Topics End-->
