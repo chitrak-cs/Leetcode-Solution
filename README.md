@@ -135,4 +135,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
 <!---LeetCode Topics End-->
