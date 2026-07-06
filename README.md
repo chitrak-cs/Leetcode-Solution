@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+| [1288-remove-covered-intervals](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
