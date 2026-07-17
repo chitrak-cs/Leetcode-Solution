@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -194,6 +196,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
