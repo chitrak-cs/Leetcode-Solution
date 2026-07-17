@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1642-furthest-building-you-can-reach](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1642-furthest-building-you-can-reach) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
