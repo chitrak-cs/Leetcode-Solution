@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## Breadth-First Search
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
@@ -197,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
