@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 ## Game Theory
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
