@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+| [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 ## Trie
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0684-redundant-connection) |
+| [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0802-find-eventual-safe-states](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0958-check-completeness-of-a-binary-tree) |
