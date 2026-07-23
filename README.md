@@ -241,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
