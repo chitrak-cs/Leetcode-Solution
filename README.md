@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1148-article-views-i) |
