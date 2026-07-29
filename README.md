@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0189-rotate-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0274-h-index) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -298,5 +300,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
