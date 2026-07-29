@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
