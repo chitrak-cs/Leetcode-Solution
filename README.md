@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
