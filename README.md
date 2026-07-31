@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1517-find-users-with-valid-e-mails) |
