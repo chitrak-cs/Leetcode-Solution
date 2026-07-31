@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
