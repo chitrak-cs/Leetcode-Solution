@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
