@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
