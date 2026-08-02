@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
