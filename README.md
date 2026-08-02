@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0055-jump-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
