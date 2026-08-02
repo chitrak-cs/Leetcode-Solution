@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0189-rotate-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0274-h-index) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
