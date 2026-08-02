@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 ## Geometry
 |  |
