@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 ## Stack
 |  |
