@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
