@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
+| [3310-remove-methods-from-project](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3310-remove-methods-from-project](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3310-remove-methods-from-project](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
