@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [0210-course-schedule-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [0210-course-schedule-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
 | [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0802-find-eventual-safe-states](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 ## Simulation
