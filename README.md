@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0202-happy-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0067-add-binary) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Matrix
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0290-word-pattern) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 ## Geometry
