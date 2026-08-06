@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Matrix
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
