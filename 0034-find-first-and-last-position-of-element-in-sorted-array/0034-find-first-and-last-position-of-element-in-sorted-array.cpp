@@ -4,6 +4,7 @@ private:
         int n = nums.size();
         int low = 0;
         int high = n-1;
+        int ans = 0;
 
         while(low <= high){
             int mid = (high+low)/2;
@@ -12,27 +13,30 @@ private:
             }
             else{
                 high = mid-1;
+                ans = mid;
             }
         }
-        return low;
+        return ans;
     }
 
     int upper_bound(vector<int>& nums,int target){
         int n = nums.size();
         int low = 0;
         int high = n-1;
+        int ans = 0;
 
         while(low<=high){
             int mid = (high+low)/2;
             if(nums[mid] <= target){
                 low = mid+1;
+                ans = mid;
             }
             else{
                 high = mid-1;
             }
         }
 
-        return high;
+        return ans;
     }
 
 
