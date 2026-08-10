@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 ## Stack
 |  |
@@ -446,4 +449,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
