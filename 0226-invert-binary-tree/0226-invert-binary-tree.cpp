@@ -20,9 +20,9 @@ private:
         TreeNode* right = root->right;
 
         root->left = right;
-        root->right = left;
-
         func(root->left);
+
+        root->right = left;
         func(root->right);
     }
 public:
