@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Matrix
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Indexed Tree
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
