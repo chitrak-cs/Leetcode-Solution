@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 ## Stack
 |  |
