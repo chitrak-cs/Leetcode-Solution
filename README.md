@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Matrix
 |  |
