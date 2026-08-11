@@ -11,16 +11,16 @@
  */
 class Solution {
 private:
-    void inorder(TreeNode* root,vector<int>& nums){
+    void preorder(TreeNode* root,vector<int>& nums){
         if(root== NULL) return;
         nums.push_back(root->val);
-        inorder(root->left,nums);
-        inorder(root->right,nums);
+        preorder(root->left,nums);
+        preorder(root->right,nums);
     }
 public:
     void flatten(TreeNode* root) {
         vector<int>nums;
-        inorder(root,nums);
+        preorder(root,nums);
 
         int n = nums.size();
         for(int i=1;i<n;i++){
