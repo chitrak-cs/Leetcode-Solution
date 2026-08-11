@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0202-happy-number) |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
