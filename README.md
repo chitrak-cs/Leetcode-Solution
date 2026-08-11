@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0463-island-perimeter) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0623-add-one-row-to-tree](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0623-add-one-row-to-tree) |
