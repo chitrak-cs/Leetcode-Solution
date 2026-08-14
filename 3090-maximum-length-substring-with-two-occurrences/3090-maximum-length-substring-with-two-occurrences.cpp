@@ -7,9 +7,8 @@ public:
        int i=0,j=0;
        int maxlen = 1;
        while(j<n){
-        int val = s[j]-'a';
-        letter[val]++;
-        while(letter[val] > 2){
+        letter[s[j]-'a']++;
+        while(letter[s[j]- 'a'] > 2){
             letter[s[i]-'a']--;
             i++;
         }
