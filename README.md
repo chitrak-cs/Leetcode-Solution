@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
@@ -593,5 +594,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
