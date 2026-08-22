@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0382-linked-list-random-node](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0382-linked-list-random-node](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0382-linked-list-random-node) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -600,4 +602,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
