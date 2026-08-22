@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0382-linked-list-random-node) |
+| [1669-merge-in-between-linked-lists](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1669-merge-in-between-linked-lists) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
