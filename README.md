@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
