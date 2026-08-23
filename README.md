@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1642-furthest-building-you-can-reach](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1642-furthest-building-you-can-reach) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2101-detonate-the-maximum-bombs](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2101-detonate-the-maximum-bombs) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
