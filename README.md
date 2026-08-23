@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0143-reorder-list) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Geometry
 |  |
 | ------- |
