@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chitrak-cs/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
